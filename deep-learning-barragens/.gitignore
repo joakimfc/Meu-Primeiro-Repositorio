@@ -1,0 +1,6 @@
+data/*
+!data/README.md
+*.tif
+*.tiff
+__pycache__/
+.ipynb_checkpoints/
